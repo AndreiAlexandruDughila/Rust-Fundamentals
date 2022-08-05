@@ -1,5 +1,5 @@
 [package]
-name = "p003"
+name = "FuncCalculateLength"
 version = "0.1.0"
 edition = "2021"
 
