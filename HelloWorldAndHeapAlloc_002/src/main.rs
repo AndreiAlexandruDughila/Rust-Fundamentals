@@ -1,5 +1,6 @@
 use std::mem;
 #[allow(unused_variables)]
+#[allow(non_snake_case)]
 fn main() {
     println!("Hello, world!");
 
